@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA railway inquiry - New Tab">df9f2cac47e88a10cff7750cd36d4367</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2024-02-23 03:06:57">2371ba1d47a88e10cff7750cd36d434d</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-23 11:06:57</sys_created_on>
+        <sys_id>a371769d47a88e10cff7750cd36d438d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>df9f2cac47e88a10cff7750cd36d4367</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300758_mumbai_r">c863b94047e80a10cff7750cd36d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_a371769d47a88e10cff7750cd36d438d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-23 11:23:58</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</application>
+        <file_path/>
+        <instance_id>35680371db1b97804c1ff70fbf9619c3</instance_id>
+        <instance_name>dev65022</instance_name>
+        <name>sys_grid_canvas_pane_a371769d47a88e10cff7750cd36d438d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA railway inquiry - New Tab">df9f2cac47e88a10cff7750cd36d4367</grid_canvas><height>10</height><portal_widget display_value="Created 2024-02-23 03:06:57">2371ba1d47a88e10cff7750cd36d434d</portal_widget><posx>0</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-23 11:06:57</sys_created_on><sys_id>a371769d47a88e10cff7750cd36d438d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>df9f2cac47e88a10cff7750cd36d4367</sys_name><sys_package display_value="Mumbai Rail Inquiry" source="x_1300758_mumbai_r">c863b94047e80a10cff7750cd36d43f4</sys_package><sys_policy/><sys_scope display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</sys_scope><sys_update_name>sys_grid_canvas_pane_a371769d47a88e10cff7750cd36d438d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-23 11:23:58</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>1059164529</payload_hash>
+        <record_name>df9f2cac47e88a10cff7750cd36d4367</record_name>
+        <reverted_from/>
+        <source>0063b94047e80a10cff7750cd36d43f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-23 11:23:58</sys_created_on>
+        <sys_id>7065f69147e88e10cff7750cd36d439f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dd5b5330f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-23 11:23:58</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>7865f691c5e88e10a1fb30e7f7b75b9e</update_guid>
+        <update_guid_history>7865f691c5e88e10a1fb30e7f7b75b9e:1059164529,eb71769d24a88e10502d8030d08f448e:1057050888</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-23 11:24:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>3ed9e885db0c4f2e9b019d0c0e13d849</sys_id>
+        <sys_metadata>a371769d47a88e10cff7750cd36d438d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>df9f2cac47e88a10cff7750cd36d4367</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300758_mumbai_r">c863b94047e80a10cff7750cd36d43f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</sys_scope>
+        <sys_scope_delete display_value="">09906dcd61e94224807619ae57546b24</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_a371769d47a88e10cff7750cd36d438d</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_a371769d47a88e10cff7750cd36d438d">7065f69147e88e10cff7750cd36d439f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-23 11:24:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

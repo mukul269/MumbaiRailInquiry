@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA railway inquiry - New Tab">df9f2cac47e88a10cff7750cd36d4367</grid_canvas>
+        <height>18</height>
+        <portal_widget display_value="Created 2024-02-20 09:44:43">7ccfecec47e88a10cff7750cd36d4347</portal_widget>
+        <posx>0</posx>
+        <posy>34</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 17:44:43</sys_created_on>
+        <sys_id>38cfecec47e88a10cff7750cd36d434a</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>df9f2cac47e88a10cff7750cd36d4367</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300758_mumbai_r">c863b94047e80a10cff7750cd36d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_38cfecec47e88a10cff7750cd36d434a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-23 11:29:19</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sub_category" table="x_1300758_mumbai_r_mumbai_rail_inquiry" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sub_category</element>
+            <name>x_1300758_mumbai_r_mumbai_rail_inquiry</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 10:37:38</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sub_category</sys_name>
+            <sys_package display_value="Mumbai Rail Inquiry" source="x_1300758_mumbai_r">c863b94047e80a10cff7750cd36d43f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</sys_scope>
+            <sys_update_name>sys_choice_x_1300758_mumbai_r_mumbai_rail_inquiry_sub_category</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-19 10:37:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Ticket Issue</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refund Issue</label>
+            <language>en</language>
+            <name>x_1300758_mumbai_r_mumbai_rail_inquiry</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 11:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-19 11:45:25</sys_updated_on>
+            <value>Refund Issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Ticket Issue</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reservation  Issue</label>
+            <language>en</language>
+            <name>x_1300758_mumbai_r_mumbai_rail_inquiry</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 11:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-19 11:45:25</sys_updated_on>
+            <value>Reservation  Issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Catering Issue</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Food Quality not good</label>
+            <language>en</language>
+            <name>x_1300758_mumbai_r_mumbai_rail_inquiry</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 11:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 10:57:58</sys_updated_on>
+            <value>Food Quality Not Good</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Catering Issue</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Food Not Provided</label>
+            <language>en</language>
+            <name>x_1300758_mumbai_r_mumbai_rail_inquiry</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 11:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 10:57:58</sys_updated_on>
+            <value>Food Not Provided</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Berth Issue</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Blanket not available</label>
+            <language>en</language>
+            <name>x_1300758_mumbai_r_mumbai_rail_inquiry</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 11:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 10:57:58</sys_updated_on>
+            <value>Blanket not available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Berth Issue</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AC not working</label>
+            <language>en</language>
+            <name>x_1300758_mumbai_r_mumbai_rail_inquiry</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 11:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 10:57:58</sys_updated_on>
+            <value>AC not working</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Berth Issue</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Light Issue</label>
+            <language>en</language>
+            <name>x_1300758_mumbai_r_mumbai_rail_inquiry</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 11:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 10:57:58</sys_updated_on>
+            <value>Light Issue</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

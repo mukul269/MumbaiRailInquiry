@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_column/>
+        <sp_container display_value="Mumbai Rail Inquiry - Container 1">36a8e4f4476cca10cff7750cd36d4336</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 11:52:28</sys_created_on>
+        <sys_id>eab828b4476cca10cff7750cd36d4328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300758_mumbai_r">c863b94047e80a10cff7750cd36d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</sys_scope>
+        <sys_update_name>sp_row_eab828b4476cca10cff7750cd36d4328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 11:52:28</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</application>
+        <file_path/>
+        <instance_id>35680371db1b97804c1ff70fbf9619c3</instance_id>
+        <instance_name>dev65022</instance_name>
+        <name>sp_row_eab828b4476cca10cff7750cd36d4328</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><semantic_tag/><sp_column/><sp_container display_value="Mumbai Rail Inquiry - Container 1">36a8e4f4476cca10cff7750cd36d4336</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-21 11:52:28</sys_created_on><sys_id>eab828b4476cca10cff7750cd36d4328</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Mumbai Rail Inquiry" source="x_1300758_mumbai_r">c863b94047e80a10cff7750cd36d43f4</sys_package><sys_policy/><sys_scope display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</sys_scope><sys_update_name>sp_row_eab828b4476cca10cff7750cd36d4328</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-21 11:52:28</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>-1055556837</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>0063b94047e80a10cff7750cd36d43f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 11:52:28</sys_created_on>
+        <sys_id>7ab828b4476cca10cff7750cd36d432a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dcb82928d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 11:52:28</sys_updated_on>
+        <type>Row</type>
+        <update_guid>aeb828b4d26cca10366f39f643949029</update_guid>
+        <update_guid_history>aeb828b4d26cca10366f39f643949029:-1055556837</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">08c8a8f4476cca10cff7750cd36d4302</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 11:52:34</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>051780f639574ce8939590db3993f640</sys_id>
+        <sys_metadata>eab828b4476cca10cff7750cd36d4328</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300758_mumbai_r">c863b94047e80a10cff7750cd36d43f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</sys_scope>
+        <sys_scope_delete display_value="">09906dcd61e94224807619ae57546b24</sys_scope_delete>
+        <sys_update_name>sp_row_eab828b4476cca10cff7750cd36d4328</sys_update_name>
+        <sys_update_version display_value="sp_row_eab828b4476cca10cff7750cd36d4328">7ab828b4476cca10cff7750cd36d432a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 11:52:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

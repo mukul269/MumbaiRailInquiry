@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="request_filter">
+    <request_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>10</applies_to>
+        <data_item/>
+        <filter/>
+        <group/>
+        <item_stream/>
+        <last_used/>
+        <mobile>false</mobile>
+        <portal_page display_value="standard_ticket">c729488287310010e0ef0cf888cb0ba8</portal_page>
+        <primary_display>short_description</primary_display>
+        <roles/>
+        <secondary_display>number</secondary_display>
+        <short_description/>
+        <sys_class_name>request_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-23 11:35:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>48e7329547e88e10cff7750cd36d437a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>tracking rail requests</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300758_mumbai_r">c863b94047e80a10cff7750cd36d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</sys_scope>
+        <sys_update_name>request_filter_48e7329547e88e10cff7750cd36d437a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-23 11:35:21</sys_updated_on>
+        <table>x_1300758_mumbai_r_mumbai_rail_inquiry</table>
+        <table_name/>
+        <title>tracking rail requests</title>
+        <user/>
+    </request_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=48e7329547e88e10cff7750cd36d437a"/>
+</record_update>

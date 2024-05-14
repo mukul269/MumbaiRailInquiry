@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f8da7904476c0a10cff7750cd36d4365" extends="task" label="Mumbai Rail Inquiry" max_length="40" name="x_1300758_mumbai_r_mumbai_rail_inquiry" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" mandatory="true" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Ticket Issue" sequence="0" value="Ticket Issue"/>
+                <element inactive_on_update="false" label="Catering Issue" sequence="1" value="Catering Issue"/>
+                <element inactive_on_update="false" label="Berth Issue" sequence="2" value="Berth Issue"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Requester" mandatory="true" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="category" dependent_on_field="category" label="Sub category" mandatory="true" max_length="40" name="sub_category" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Ticket Issue" inactive_on_update="false" label="Refund Issue" sequence="0" value="Refund Issue"/>
+                <element dependent_value="Ticket Issue" inactive_on_update="false" label="Reservation  Issue" sequence="1" value="Reservation  Issue"/>
+                <element dependent_value="Catering Issue" inactive_on_update="false" label="Food Quality not good" sequence="2" value="Food Quality Not Good"/>
+                <element dependent_value="Catering Issue" inactive_on_update="false" label="Food Not Provided" sequence="3" value="Food Not Provided"/>
+                <element dependent_value="Berth Issue" inactive_on_update="false" label="Blanket not available" sequence="4" value="Blanket not available"/>
+                <element dependent_value="Berth Issue" inactive_on_update="false" label="AC not working" sequence="5" value="AC not working"/>
+                <element dependent_value="Berth Issue" inactive_on_update="false" label="Light Issue" sequence="6" value="Light Issue"/>
+            </choice>
+        </element>
+    </element>
+</database>

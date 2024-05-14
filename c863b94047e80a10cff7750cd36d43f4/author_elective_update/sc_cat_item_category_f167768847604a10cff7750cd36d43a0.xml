@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="MRI record producer">3ca6b64847604a10cff7750cd36d43a8</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 14:20:23</sys_created_on>
+        <sys_id>f167768847604a10cff7750cd36d43a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.MRI record producer</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300758_mumbai_r">c863b94047e80a10cff7750cd36d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</sys_scope>
+        <sys_update_name>sc_cat_item_category_f167768847604a10cff7750cd36d43a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 14:20:23</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</application>
+        <file_path/>
+        <instance_id>35680371db1b97804c1ff70fbf9619c3</instance_id>
+        <instance_name>dev65022</instance_name>
+        <name>sc_cat_item_category_f167768847604a10cff7750cd36d43a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="MRI record producer">3ca6b64847604a10cff7750cd36d43a8</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-19 14:20:23</sys_created_on><sys_id>f167768847604a10cff7750cd36d43a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.MRI record producer</sys_name><sys_package display_value="Mumbai Rail Inquiry" source="x_1300758_mumbai_r">c863b94047e80a10cff7750cd36d43f4</sys_package><sys_policy/><sys_scope display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</sys_scope><sys_update_name>sc_cat_item_category_f167768847604a10cff7750cd36d43a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-19 14:20:23</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1488876999</payload_hash>
+        <record_name>Can We Help You?.MRI record producer</record_name>
+        <reverted_from/>
+        <source>0063b94047e80a10cff7750cd36d43f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 14:20:23</sys_created_on>
+        <sys_id>f967768847604a10cff7750cd36d43a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc1bd461f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 14:20:23</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>7d677688e6604a1056f8ff6c5a875fa3</update_guid>
+        <update_guid_history>7d677688e6604a1056f8ff6c5a875fa3:-1488876999</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.MRI record producer">f6977a8847604a10cff7750cd36d43b6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 14:21:16</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0139bf95f6f342118f7df541bc975709</sys_id>
+        <sys_metadata>f167768847604a10cff7750cd36d43a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.MRI record producer</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300758_mumbai_r">c863b94047e80a10cff7750cd36d43f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">c863b94047e80a10cff7750cd36d43f4</sys_scope>
+        <sys_scope_delete display_value="">09906dcd61e94224807619ae57546b24</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_f167768847604a10cff7750cd36d43a0</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_f167768847604a10cff7750cd36d43a0">f967768847604a10cff7750cd36d43a4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 14:21:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
